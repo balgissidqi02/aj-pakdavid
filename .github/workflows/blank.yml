@@ -37,3 +37,6 @@ jobs:
 
       - name: press tambahan
         run: date
+
+      - name: Jalankan file python
+        run: python nama.py 
